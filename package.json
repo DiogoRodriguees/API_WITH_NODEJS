@@ -1,0 +1,27 @@
+{
+  "name": "nodejs_learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoRodriguees/API_WITH_NODEJS.git"
+  },
+  "keywords": [],
+  "author": "Diogo Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiogoRodriguees/API_WITH_NODEJS/issues"
+  },
+  "homepage": "https://github.com/DiogoRodriguees/API_WITH_NODEJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
